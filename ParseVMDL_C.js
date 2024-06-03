@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { promises: fsPromises } = fs; // Destructure promises from fs for modern async usage
+const { promises: fsPromises } = fs;
 const path = require('path');
 const readline = require('readline');
 
