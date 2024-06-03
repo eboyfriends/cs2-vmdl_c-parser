@@ -2,4 +2,6 @@
 
 not finished, lazy.
 
-parses m_meshes to then be used in external visual check. 
+to get VMDL_C, download [Source2Viewer](https://valveresourceformat.github.io) -> Explorer -> CS2 -> game/csgo/maps/mapname.vpk -> mapname folder -> world_physics.vmdl_C
+
+parses m_meshes, adding more.
